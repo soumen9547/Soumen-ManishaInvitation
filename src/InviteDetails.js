@@ -45,7 +45,7 @@ const InviteDetails = () => {
         <Col xs={12} className="box1" style={{marginTop:'-10em'}}>
           <div  className='box1' style={{marginTop:'4em'}}>
             <a
-              href="https://photos.app.goo.gl/Wn9PRK7FMpxBKF5s6"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="box">
